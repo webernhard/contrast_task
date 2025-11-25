@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### bws ###
 xdev/
 data/
@@ -6,6 +7,8 @@ data/
 *_legacy*
 
 
+=======
+>>>>>>> f11c58a3f8b799509b4ec8bb87ad3198b81bb00f
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
